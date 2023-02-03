@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 --
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=nurefsansavash1&show_icons=true&theme=gradient)
+
+![Python-logo-notext svg](https://user-images.githubusercontent.com/123943560/216709543-1a6a8837-7fb3-4596-aad3-43e13bd67ab5.png)
