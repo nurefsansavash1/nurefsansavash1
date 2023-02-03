@@ -1,5 +1,5 @@
-### Hi there 👋
-## https://github.com/nurefsansavash1/nurefsansavash1
+### Hi there I'm Nurefsan 👋
+##
 
 
 <!--
