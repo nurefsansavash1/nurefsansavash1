@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: singing
 --
-![Github stats 1](https://github-readme-stats.vercel.app/api?nurefsansavash1&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?(https://github.com/nurefsansavash1)&show_icons=true&theme=gradient)
